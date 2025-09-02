@@ -1,0 +1,50 @@
+# Handwerker-Software: Technologie-Stack und Funktionen
+
+## Frontend
+- **Mobile Apps**: React Native oder Flutter (iOS/Android)
+- **Web**: Next.js
+- **UI/UX**: Tailwind CSS
+
+## Backend
+- **API**: Node.js mit Express/NestJS
+- **KI/ML**: Python mit FastAPI
+- **API-Stil**: RESTful oder GraphQL
+
+## Datenbanken
+- **Hauptdatenbank**: PostgreSQL
+- **Dokumentenspeicher**: MongoDB
+- **Caching**: Redis
+
+## KI/ML-Komponenten
+- **Frameworks**: TensorFlow.js / PyTorch
+- **NLP**: OpenAI API
+- **Computer Vision**: Für Material- und Schadenserkennung
+
+## Cloud & Infrastruktur
+- **Containerisierung**: Docker, Kubernetes
+- **Cloud-Anbieter**: AWS/Google Cloud/Azure
+- **CI/CD**: GitHub Actions/GitLab CI
+
+## Kernfunktionen
+1. Terminverwaltung
+2. Auftragsverwaltung
+3. Materialwirtschaft
+4. Rechnungserstellung
+5. Kundenverwaltung
+6. KI-gestützte Angebotserstellung
+7. Dokumentenerkennung (Rechnungen, Lieferscheine)
+8. Echtzeit-Kommunikation
+9. Fahrtenbuch und Routenplanung
+10. Zeiterfassung
+11. Materialbestellung
+12. Wartungsplanung
+13. Vor-Ort-Dokumentation mit Fotos
+14. Digitale Unterschriften
+15. Berichtswesen und Analysen
+
+## Erweiterte KI-Funktionen
+- Automatische Materialbedarfsberechnung
+- Vorhersage von Wartungsintervallen
+- Spracherkennung für Berichterstellung
+- Bilderkennung für Schadensdiagnose
+- Automatische Kategorisierung von Anfragen
